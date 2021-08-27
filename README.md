@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @RazaRizvii
+- 👀 I’m interested in helping my fellows to learn coding more easily and they can find solution to their problems over there...
+- 🌱 I’m currently learning Artifical Intelligence...
+- 📫 You can also reach me on insta raza_rizvi__ ...
+
+<!---
+RazaRizvii/RazaRizvii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
